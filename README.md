@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=180&section=header&text=Md.%20Sadik%20Hasan%20Fahim%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
   <p align="center">
-    <strong>Aspiring AI/ML Enthusiast | Frontend Developer | CSE Undergrad</strong>
+    <strong>Aspiring AI/ML Enthusiast | Full Stack Developer | CSE Undergrad</strong>
   </p>
   
   <p align="center">
@@ -16,8 +16,8 @@
 
 ### 🧐 About Me
 - 🎓 **Education:** Computer Science & Engineering (CSE) student at **Daffodil International University (DIU)**.
-- 🚀 **Passionate About:** AI/ML solutions, Data Structures & Algorithms, and modern Web Development.
-- 💻 **Core Strengths:** Problem solving with C/C++, Object-Oriented Programming (OOP) in Java, and building clean web interfaces using Tailwind CSS.
+- 🚀 **Passionate About:** AI/ML solutions, Data Structures & Algorithms, and Full-Stack Web Development.
+- 💻 **Core Strengths:** Problem solving with C/C++, Object-Oriented Programming (OOP) in Java, and building modern web apps using React, Next.js, Node.js & MongoDB.
 - 📍 **Location:** Dhaka, Bangladesh.
 - ☕ **Beyond Tech:** Tea lover, passionate about travelling and exploring new cultures.
 
@@ -37,8 +37,17 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 #### 🧠 Concepts & Focus Areas
@@ -61,7 +70,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mrfahimdiucse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfahimdiucse&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
